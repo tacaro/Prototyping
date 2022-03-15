@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2592 1728" style="enable-background:new 0 0 2592 1728;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FF0000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#D1D1D1;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#474747;stroke-miterlimit:10;}
+	.st3{font-family:'Arial-BoldMT';}
+	.st4{font-size:12px;}
+	.st5{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st6{font-family:'MyriadPro-Regular';}
+</style>
+<g id="Layer_1">
+	<circle class="st0" cx="86.82" cy="210.36" r="35.43"/>
+	<circle class="st0" cx="172.73" cy="210.36" r="35.43"/>
+</g>
+<g id="Layer_2">
+	<circle cx="172.73" cy="210.36" r="25.51"/>
+	<path class="st1" d="M86.82,245.8"/>
+	<path class="st1" d="M86.82,174.93"/>
+	<path class="st1" d="M51.38,210.36"/>
+	<path class="st1" d="M122.25,210.36"/>
+	<path class="st1" d="M61.76,185.31"/>
+	<path class="st1" d="M111.87,235.42"/>
+	<path class="st1" d="M61.76,235.42"/>
+	<path class="st1" d="M111.87,185.31"/>
+	<path class="st2" d="M172.73,235.42"/>
+	<path class="st2" d="M172.73,185.31"/>
+	<path class="st2" d="M147.68,210.36"/>
+	<path class="st2" d="M197.79,210.36"/>
+	<path class="st2" d="M155.02,192.65"/>
+	<path class="st2" d="M190.45,228.08"/>
+	<path class="st2" d="M155.02,228.08"/>
+	<path class="st2" d="M190.45,192.65"/>
+</g>
+<g id="Layer_3">
+	<text transform="matrix(1 0 0 1 402.6671 143.1691)"><tspan x="0" y="0" class="st3 st4">Anoxic XRD sample chamber </tspan><tspan x="0" y="14.4" class="st3 st4">TRISTAN A. CARO</tspan><tspan x="0" y="43.2" class="st3 st4">ACRYLIC (PMMA)</tspan><tspan x="0" y="57.6" class="st3 st4">0.175mm </tspan><tspan x="0" y="100.8" class="st3 st4">LAYER 1: VECTOR CUT</tspan><tspan x="0" y="115.2" class="st3 st4">LAYER 2: RASTER ENGRAVE</tspan><tspan x="0" y="129.6" class="st3 st4">LAYER 3: ANNOTATIONS</tspan></text>
+	<rect x="388.43" y="120.65" class="st5" width="247.16" height="161.03"/>
+	<text transform="matrix(1 0 0 1 156.3134 273.5107)" class="st6 st4">Well</text>
+	<text transform="matrix(1 0 0 1 81.5274 273.5107)" class="st6 st4">Lid</text>
+</g>
+</svg>

@@ -1,5 +1,5 @@
 # Prototyping and Fabrication Repository
-A collection of tools that can be custom-fabricated and prototyped using laser cutters and 3D printers.
+A collection of tools that can be custom-fabricated and prototyped using laser cutters and 3D printers. If you use these designs, please attribute!
 
 ## Current Projects
 - Anaerobic mount for x-ray diffraction (XRD) instrument

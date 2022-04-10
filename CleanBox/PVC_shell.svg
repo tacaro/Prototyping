@@ -11,11 +11,10 @@
 	.st5{font-size:120px;}
 	.st6{fill:none;stroke:#FF0000;stroke-width:24;stroke-miterlimit:10;}
 	.st7{fill:none;stroke:#FF0000;stroke-width:24;stroke-miterlimit:10;stroke-dasharray:11.9214,11.9214;}
-	.st8{fill:none;stroke:#FF0000;stroke-width:24;stroke-miterlimit:10;stroke-dasharray:11.8421,11.8421;}
-	.st9{fill:none;stroke:#FF0000;stroke-width:24;stroke-miterlimit:10;stroke-dasharray:11.9957,11.9957;}
-	.st10{fill:none;stroke:#FF0000;stroke-width:24;stroke-miterlimit:10;stroke-dasharray:11.9482,11.9482;}
-	.st11{fill:none;stroke:#FF0000;stroke-width:24;stroke-miterlimit:10;stroke-dasharray:11.9679,11.9679;}
-	.st12{fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FF0000;stroke-width:24;stroke-miterlimit:10;stroke-dasharray:11.9957,11.9957;}
+	.st9{fill:none;stroke:#FF0000;stroke-width:24;stroke-miterlimit:10;stroke-dasharray:11.9482,11.9482;}
+	.st10{fill:none;stroke:#FF0000;stroke-width:24;stroke-miterlimit:10;stroke-dasharray:11.9679,11.9679;}
+	.st11{fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
 </style>
 <g id="Layer_1">
 </g>
@@ -98,7 +97,7 @@
 	<text transform="matrix(1 0 0 1 7741.9482 14677.8027)" class="st2 st3">BACKSIDE</text>
 	<text transform="matrix(1 0 0 1 7741.9482 12117.8184)" class="st4 st2 st3">WALL-SIDE</text>
 	<text transform="matrix(1 0 0 1 13257.1387 11966.6035)"><tspan x="0" y="0" class="st2 st3">SIDE 1</tspan><tspan x="-506.84" y="288" class="st2 st3">(Closest to door)</tspan></text>
-	<text transform="matrix(1 0 0 1 440.3281 643.9218)"><tspan x="0" y="0" class="st2 st3">Cleanbox 2˚ Containment</tspan><tspan x="0" y="288" class="st2 st3">Tristan A. Caro</tspan><tspan x="0" y="576" class="st2 st3">1” PVC Pipe (SCH 40):</tspan><tspan x="0" y="864" class="st2 st3">- 3x 72”</tspan><tspan x="0" y="1152" class="st2 st3">- 4x 54”</tspan><tspan x="0" y="1440" class="st2 st3">- 3x 90”</tspan><tspan x="0" y="1728" class="st2 st3">- 1x 24”</tspan><tspan x="0" y="2016" class="st2 st3">- 7x trigonal socket connectors</tspan><tspan x="0" y="2304" class="st2 st3">- 2x end-caps</tspan></text>
+	<text transform="matrix(1 0 0 1 440.3281 643.9218)"><tspan x="0" y="0" class="st2 st3">Cleanbox 2˚ Containment</tspan><tspan x="0" y="288" class="st2 st3">Tristan A. Caro</tspan><tspan x="0" y="576" class="st2 st3">2” PVC Pipe (SCH 40):</tspan><tspan x="0" y="864" class="st2 st3">- 3x 72”</tspan><tspan x="0" y="1152" class="st2 st3">- 5x 54”</tspan><tspan x="0" y="1440" class="st2 st3">- 3x 90”</tspan><tspan x="0" y="1728" class="st2 st3">- 6x trigonal connectors</tspan><tspan x="0" y="2016" class="st2 st3">- 1x 90˚ elbow connector</tspan><tspan x="0" y="2304" class="st2 st3">- 2x end-caps</tspan></text>
 	<text transform="matrix(1 0 0 1 10611.4531 12252.8184)" class="st2 st3">90”</text>
 	<text transform="matrix(1 0 0 1 5763.2949 12395.5879)" class="st2 st3">90”</text>
 	<text transform="matrix(1 0 0 1 4692.5259 12395.5879)" class="st2 st3">90”</text>
@@ -132,7 +131,7 @@
 	
 		<rect x="1179.04" y="8724.82" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 6246.083 17593.6387)" class="st0" width="3888" height="144"/>
 	
-		<rect x="3209.03" y="15366.82" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 8146.0625 30877.6387)" class="st0" width="1728" height="144"/>
+		<rect x="1179.04" y="15366.82" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 6246.083 30877.6387)" class="st0" width="3888" height="144"/>
 	
 		<rect x="927.04" y="9043.79" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1998.0833 21975.5859)" class="st0" width="144" height="3888"/>
 	<g>
@@ -143,12 +142,12 @@
 		
 			<rect x="909.04" y="8886.82" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 9975.8604 7977.7773)" class="st1" width="180" height="180"/>
 	</g>
-	<rect x="3033.04" y="15348.82" class="st1" width="180" height="180"/>
+	<rect x="1089.04" y="15348.82" class="st1" width="180" height="180"/>
 	<text transform="matrix(1 0 0 1 2742.8843 11989.6289)"><tspan x="0" y="0" class="st2 st3">SIDE 2</tspan><tspan x="-640.08" y="288" class="st2 st3">(Closest to walk-in)</tspan></text>
-	<text transform="matrix(1 0 0 1 931.5878 14528.7002)"><tspan x="0" y="0" class="st2 st5">(Break here fits snug</tspan><tspan x="-50.19" y="144" class="st2 st5"> around the bench top)</tspan></text>
+	<text transform="matrix(1 0 0 1 572.0859 14183.9111)"><tspan x="0" y="0" class="st2 st5">(Break here fits snug</tspan><tspan x="-50.19" y="144" class="st2 st5"> around the bench top)</tspan></text>
 	<text transform="matrix(1 0 0 1 1125.6797 11651.9355)" class="st2 st3">54”</text>
 	<text transform="matrix(1 0 0 1 2964.1934 9313.041)" class="st2 st3">54”</text>
-	<text transform="matrix(0.892 0 0 1 3919.3711 15218.0674)" class="st2 st3">24”</text>
+	<text transform="matrix(1 0 0 1 3123.0405 15145.793)" class="st2 st3">54”</text>
 	<rect x="5135.03" y="8976.82" class="st0" width="144" height="6552"/>
 	<g>
 		
@@ -176,23 +175,23 @@
 	<g>
 		<g>
 			<line class="st6" x1="5607.18" y1="15438.82" x2="5610.66" y2="15433.93"/>
-			<line class="st8" x1="5617.52" y1="15424.28" x2="6108.08" y2="14734.15"/>
-			<line class="st6" x1="6111.51" y1="14729.33" x2="6114.99" y2="14724.44"/>
+			<line class="st7" x1="5617.57" y1="15424.21" x2="6553.46" y2="14107.6"/>
+			<line class="st6" x1="6556.91" y1="14102.74" x2="6560.39" y2="14097.85"/>
 		</g>
 	</g>
-	<text transform="matrix(0.5492 0.8357 -0.8357 0.5492 10321.4453 14211.0186)" class="st4 st2 st3">SIDE 1</text>
-	<text transform="matrix(0.5492 0.8357 -0.8357 0.5492 10308.6016 14605.3359)" class="st4 st2 st5">54”</text>
-	<text transform="matrix(0.5492 0.8357 -0.8357 0.5492 6198.1753 9503.8867)" class="st4 st2 st5">54”</text>
-	<text transform="matrix(0.619 -0.7854 0.7854 0.619 10462.7471 9571.8857)" class="st4 st2 st5">54”</text>
-	<text transform="matrix(-5.118466e-07 -1 1 -5.118466e-07 10081.9746 12245.0117)" class="st4 st2 st5">90”</text>
+	<text transform="matrix(0.5493 0.8357 -0.8357 0.5493 10321.4795 14211.0791)" class="st4 st2 st3">SIDE 1</text>
+	<text transform="matrix(0.5493 0.8357 -0.8357 0.5493 10308.6367 14605.3955)" class="st4 st2 st5">54”</text>
+	<text transform="matrix(0.5493 0.8357 -0.8357 0.5493 6198.2109 9503.9463)" class="st4 st2 st5">54”</text>
+	<text transform="matrix(0.619 -0.7854 0.7854 0.619 10462.7725 9571.8574)" class="st4 st2 st5">54”</text>
+	<text transform="matrix(0 -1 1 0 10081.9775 12245.0195)" class="st4 st2 st5">90”</text>
 	<text transform="matrix(1 0 0 1 8223.9814 10035.7754)" class="st4 st2 st5">72”</text>
-	<text transform="matrix(-5.118466e-07 -1 1 -5.118466e-07 6679.0156 11292.8896)" class="st4 st2 st5">54”</text>
-	<text transform="matrix(0.5794 -0.8151 0.8151 0.5794 6064.7461 15076.0059)" class="st4 st2 st5">24”</text>
-	<text transform="matrix(0.621 -0.7838 0.7838 0.621 5878.9028 14892.3281)" class="st4 st2 st3">SIDE 2</text>
+	<text transform="matrix(0 -1 1 0 6679.0181 11292.8975)" class="st4 st2 st5">54”</text>
+	<text transform="matrix(0.5794 -0.8151 0.8151 0.5794 6274.5444 14749.4277)" class="st4 st2 st5">54”</text>
+	<text transform="matrix(0.621 -0.7838 0.7838 0.621 5878.8447 14892.3203)" class="st4 st2 st3">SIDE 2</text>
 	<g>
 		<g>
 			<line class="st6" x1="10150.73" y1="14120.38" x2="10150.73" y2="14114.38"/>
-			<line class="st9" x1="10150.73" y1="14102.38" x2="10150.73" y2="10149.79"/>
+			<line class="st8" x1="10150.73" y1="14102.38" x2="10150.73" y2="10149.79"/>
 			<line class="st6" x1="10150.73" y1="10143.79" x2="10150.73" y2="10137.79"/>
 		</g>
 	</g>
@@ -213,14 +212,14 @@
 	<g>
 		<g>
 			<line class="st6" x1="6544.44" y1="10126.52" x2="6544.44" y2="10132.52"/>
-			<line class="st10" x1="6544.44" y1="10144.47" x2="6544.44" y2="11954.63"/>
+			<line class="st9" x1="6544.44" y1="10144.47" x2="6544.44" y2="11954.63"/>
 			<line class="st6" x1="6544.44" y1="11960.6" x2="6544.44" y2="11966.6"/>
 		</g>
 	</g>
 	<g>
 		<g>
 			<line class="st6" x1="10134.85" y1="10137.79" x2="10128.85" y2="10137.79"/>
-			<line class="st11" x1="10116.88" y1="10137.79" x2="6556.42" y2="10137.79"/>
+			<line class="st10" x1="10116.88" y1="10137.79" x2="6556.42" y2="10137.79"/>
 			<line class="st6" x1="6550.44" y1="10137.79" x2="6544.44" y2="10137.79"/>
 		</g>
 	</g>
@@ -240,7 +239,7 @@
 		
 			<rect x="10988.7" y="7908.6" transform="matrix(6.123234e-17 -1 1 6.123234e-17 3080.0903 19077.3008)" class="st1" width="180" height="180"/>
 	</g>
-	<rect x="257.99" y="288.32" class="st12" width="5730.1" height="2875.52"/>
+	<rect x="257.99" y="288.32" class="st11" width="5730.1" height="2795.4"/>
 </g>
 <g id="Layer_3">
 </g>
